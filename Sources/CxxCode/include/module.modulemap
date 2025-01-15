@@ -1,0 +1,5 @@
+module CxxModule {
+    header "cxx.hpp"
+    requires cplusplus
+    export *
+}
